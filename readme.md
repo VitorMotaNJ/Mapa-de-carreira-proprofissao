@@ -1,3 +1,3 @@
 ### Mapa de Carreira
-Repositório dedicado ao mapa de carreira para o curso do proprofissão
+Repositório dedicado ao mapa de carreira para o curso do proprofissão do instituto PROA
 
